@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Learning Todo Project",
+    "githubUrl": "https://github.com/vinoth-git/reactNativeTodo.git"
   }
 }
